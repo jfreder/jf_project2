@@ -1,0 +1,3 @@
+project2
+
+This is an example for project2 file.
