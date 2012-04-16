@@ -2,3 +2,4 @@ project2
 
 This is an example for project2 file.
 Admin modified this file.
+This file was edited from GitHub...
